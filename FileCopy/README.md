@@ -3,5 +3,5 @@
 ![login图片][login]
 
 -------------------------------------
-[main1]:/images/main1.jpg
-[login]:/images/login.jpg
+[main1]:images/main1.jpg
+[login]:images/login.jpg
