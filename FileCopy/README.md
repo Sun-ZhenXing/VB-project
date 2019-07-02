@@ -13,7 +13,11 @@
 在DOS窗口下输入 help
 所有的命令您都可以使用，输入 
 >help del
+
+
 >help rd
+
+
 >help xcopy
 -------------------------------------
 [main1]:images/main1.jpg
